@@ -1,0 +1,17 @@
+{
+    "name": "huydt/think-jwt",
+    "autoload": {
+        "psr-4": {
+            "Huydt\\ThinkJwt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "drhuy",
+            "email": "huydt0307@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
